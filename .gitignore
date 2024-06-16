@@ -152,6 +152,15 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# Ignore Datasets folder
+Datasets/
+
+# Ignore kaggle.json file
+kaggle.json
+
+# Ignore Design.png file
+Design.png
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
