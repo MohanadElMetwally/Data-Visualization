@@ -36,15 +36,3 @@ To get started with the application, follow these steps:
 2. **Data Visualization**:
    - Explore various plot types to represent your data.
    - View the column names and counts to understand the structure of your dataset.
-
-## Contributing
-
-We welcome contributions to enhance the functionality of this application. Feel free to open issues or submit pull requests.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to customize the repository name, URL, and other specific details as needed.
