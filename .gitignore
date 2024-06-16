@@ -161,6 +161,9 @@ kaggle.json
 # Ignore Design.png file
 Design.png
 
+# Ignore example folder
+data_visualization/example/
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
