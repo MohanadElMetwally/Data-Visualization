@@ -30,8 +30,8 @@ To get started with the application, follow these steps:
 ## Usage
 
 1. **Import Data**:
-   - For local files, select the 'Local Import' option and choose your file.
-   - For Kaggle datasets, select the 'Kaggle Import' option and paste the dataset link.
+   - For local files, select the 'Load a Local Dataset' option and choose your file.
+   - For Kaggle datasets, select the 'Download a Kaggle Dataset' option and paste the dataset link.
 
 2. **Data Visualization**:
    - Explore various plot types to represent your data.
