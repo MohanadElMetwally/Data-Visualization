@@ -1,0 +1,5 @@
+pandas == 2.1.4
+customtkinter == 5.2.2
+seaborn == 0.13.1
+matplotlib == 3.8.2
+opendatasets == 0.1.22
